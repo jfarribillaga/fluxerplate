@@ -1,0 +1,22 @@
+[
+	{
+        "id": "1",
+        "name": "Inversión",
+        "deleted": 0
+    },
+    {
+        "id": "2",
+        "name": "Cuenta Bancaria",
+        "deleted": 0
+    },
+    {
+        "id": "3",
+        "name": "Caja Chica",
+        "deleted": 0
+    },
+    {
+        "id": "4",
+        "name": "Reserva",
+        "deleted": 0
+    }
+]
